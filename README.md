@@ -109,12 +109,20 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2, 0)
 */
 
 ## Output:
-![image](https://github.com/kanimozhipannerselvam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476060/2fa49b2c-8ac4-4714-bf23-d72503b22963)
 
-![image](https://github.com/kanimozhipannerselvam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476060/1bfca068-a159-40bc-b1c4-486e9ae32a34)
+![image](https://github.com/kanimozhipannerselvam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476060/e7950d76-8821-4bff-8a84-263e45865212)
 
-![image](https://github.com/kanimozhipannerselvam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476060/9ac83918-1177-45c2-ab05-57dcc51c642f)
+![image](https://github.com/kanimozhipannerselvam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476060/efa38c0a-5993-4d19-8951-a4ca723a831a)
 
+![image](https://github.com/kanimozhipannerselvam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476060/823e28f1-9231-465f-8b8f-20f6dc453bb9)
+
+![image](https://github.com/kanimozhipannerselvam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476060/558d1373-9f8c-4124-8b5d-1981183f8c11)
+
+![image](https://github.com/kanimozhipannerselvam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476060/15884e11-0aab-40be-860a-91092386421d)
+
+![image](https://github.com/kanimozhipannerselvam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476060/27408c0a-0f68-4ac2-a703-35ebd26056d1)
+
+![image](https://github.com/kanimozhipannerselvam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476060/238cc13b-e07d-40f4-98a6-05e67abd1002)
 
 
 ## Result:
